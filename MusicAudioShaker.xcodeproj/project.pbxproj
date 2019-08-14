@@ -13,6 +13,16 @@
 		49F1B5CD22FBF2B10039319E /* MusicAudioShaker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 49F1B5CB22FBF2B10039319E /* MusicAudioShaker.xcdatamodeld */; };
 		49F1B5CF22FBF2B20039319E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5CE22FBF2B20039319E /* Assets.xcassets */; };
 		49F1B5D222FBF2B20039319E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5D022FBF2B20039319E /* LaunchScreen.storyboard */; };
+		49F1B5DA22FBF7060039319E /* simba.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5D922FBF7050039319E /* simba.mp3 */; };
+		49F1B5E322FBFF480039319E /* malhari.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5DB22FBFF450039319E /* malhari.mp3 */; };
+		49F1B5E422FBFF480039319E /* queen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5DC22FBFF450039319E /* queen.mp3 */; };
+		49F1B5E522FBFF480039319E /* kar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5DD22FBFF460039319E /* kar.mp3 */; };
+		49F1B5E622FBFF480039319E /* guru.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5DE22FBFF460039319E /* guru.mp3 */; };
+		49F1B5E722FBFF480039319E /* chasma.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5DF22FBFF470039319E /* chasma.mp3 */; };
+		49F1B5E822FBFF480039319E /* Zingaat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5E022FBFF470039319E /* Zingaat.mp3 */; };
+		49F1B5E922FBFF480039319E /* firstSong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5E122FBFF480039319E /* firstSong.mp3 */; };
+		49F1B5EA22FBFF480039319E /* humpty.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5E222FBFF480039319E /* humpty.mp3 */; };
+		49F1B5EC22FC4CD40039319E /* OldTown.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49F1B5EB22FC4CD30039319E /* OldTown.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +34,16 @@
 		49F1B5CE22FBF2B20039319E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49F1B5D122FBF2B20039319E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49F1B5D322FBF2B20039319E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49F1B5D922FBF7050039319E /* simba.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = simba.mp3; sourceTree = "<group>"; };
+		49F1B5DB22FBFF450039319E /* malhari.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = malhari.mp3; sourceTree = "<group>"; };
+		49F1B5DC22FBFF450039319E /* queen.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = queen.mp3; sourceTree = "<group>"; };
+		49F1B5DD22FBFF460039319E /* kar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = kar.mp3; sourceTree = "<group>"; };
+		49F1B5DE22FBFF460039319E /* guru.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guru.mp3; sourceTree = "<group>"; };
+		49F1B5DF22FBFF470039319E /* chasma.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chasma.mp3; sourceTree = "<group>"; };
+		49F1B5E022FBFF470039319E /* Zingaat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Zingaat.mp3; sourceTree = "<group>"; };
+		49F1B5E122FBFF480039319E /* firstSong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = firstSong.mp3; sourceTree = "<group>"; };
+		49F1B5E222FBFF480039319E /* humpty.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = humpty.mp3; sourceTree = "<group>"; };
+		49F1B5EB22FC4CD30039319E /* OldTown.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = OldTown.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +62,16 @@
 			children = (
 				49F1B5C322FBF2B10039319E /* MusicAudioShaker */,
 				49F1B5C222FBF2B10039319E /* Products */,
+				49F1B5D922FBF7050039319E /* simba.mp3 */,
+				49F1B5DF22FBFF470039319E /* chasma.mp3 */,
+				49F1B5E122FBFF480039319E /* firstSong.mp3 */,
+				49F1B5DE22FBFF460039319E /* guru.mp3 */,
+				49F1B5E222FBFF480039319E /* humpty.mp3 */,
+				49F1B5DD22FBFF460039319E /* kar.mp3 */,
+				49F1B5DB22FBFF450039319E /* malhari.mp3 */,
+				49F1B5DC22FBFF450039319E /* queen.mp3 */,
+				49F1B5E022FBFF470039319E /* Zingaat.mp3 */,
+				49F1B5EB22FC4CD30039319E /* OldTown.mp3 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,8 +156,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				49F1B5D222FBF2B20039319E /* LaunchScreen.storyboard in Resources */,
+				49F1B5EC22FC4CD40039319E /* OldTown.mp3 in Resources */,
+				49F1B5E622FBFF480039319E /* guru.mp3 in Resources */,
+				49F1B5E922FBFF480039319E /* firstSong.mp3 in Resources */,
+				49F1B5EA22FBFF480039319E /* humpty.mp3 in Resources */,
 				49F1B5CF22FBF2B20039319E /* Assets.xcassets in Resources */,
+				49F1B5E822FBFF480039319E /* Zingaat.mp3 in Resources */,
+				49F1B5E522FBFF480039319E /* kar.mp3 in Resources */,
 				49F1B5CA22FBF2B10039319E /* Main.storyboard in Resources */,
+				49F1B5DA22FBF7060039319E /* simba.mp3 in Resources */,
+				49F1B5E322FBFF480039319E /* malhari.mp3 in Resources */,
+				49F1B5E422FBFF480039319E /* queen.mp3 in Resources */,
+				49F1B5E722FBFF480039319E /* chasma.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
